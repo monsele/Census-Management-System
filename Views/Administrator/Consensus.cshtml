@@ -1,0 +1,40 @@
+﻿@model CensusManagement_System.ViewModels.AdminViewModel
+@{
+    ViewData["Title"] = "Consensus";
+}
+
+<h1>Consensus</h1>
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-header">
+            <h3>Total Population</h3>
+        </div>
+        <div class="card-body">
+            <h5>@Model.CensusCount</h5>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header">
+            <h3>Total Population InCountry</h3>
+        </div>
+        <div class="card-body">
+            <h5>@Model.ThoseInTheCountry</h5>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header">
+            <h3>Total Population Not In the Country</h3>
+        </div>
+        <div class="card-body">
+            <h5>@Model.ThoseNotInCountry</h5>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header">
+            <h3>Total Number Of States</h3>
+        </div>
+        <div class="card-body">
+            <h5>@Model.NumberOfStates</h5>
+        </div>
+    </div>
+</div>

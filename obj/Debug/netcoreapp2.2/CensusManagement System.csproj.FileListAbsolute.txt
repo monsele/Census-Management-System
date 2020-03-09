@@ -1,0 +1,51 @@
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\CensusManagement System.deps.json
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\CensusManagement System.runtimeconfig.json
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\CensusManagement System.runtimeconfig.dev.json
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\CensusManagement System.dll
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\CensusManagement System.pdb
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\CensusManagement System.Views.dll
+C:\Users\rooai\source\repos\CensusManagement System\bin\Debug\netcoreapp2.2\CensusManagement System.Views.pdb
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.csprojAssemblyReference.cache
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.RazorAssemblyInfo.cache
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.RazorAssemblyInfo.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.AssemblyInfoInputs.cache
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.AssemblyInfo.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.TagHelpers.input.cache
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.TagHelpers.output.cache
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.RazorCoreGenerate.cache
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.RazorTargetAssemblyInfo.cache
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.RazorTargetAssemblyInfo.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.Views.pdb
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.dll
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.pdb
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\CensusManagement System.csproj.CopyComplete
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\State\Index.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\State\Details.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\State\Create.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\State\Edit.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\State\Delete.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\Index.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\Create.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\EditRole.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\FeedBack\Index.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\FeedBack\Create.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\EditUsersInRole.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\Administrator\Consensus.cshtml.g.cs
+C:\Users\rooai\source\repos\CensusManagement System\obj\Debug\netcoreapp2.2\Razor\Views\State\DetailsView.cshtml.g.cs

@@ -1,0 +1,17 @@
+﻿@model CensusManagement_System.ViewModels.DetailsStateViewModel
+@{
+    ViewData["Title"] = "DetailsView";
+}
+
+<h1>DetailsView</h1>
+
+<div class="flex-wrap">
+    <div class="card">
+        <div class="card-header">
+            <h4>@Model.State.Name</h4>
+        </div>
+        <div class="card-body">
+            <p>@Model.NumberOfCitezens</p>
+        </div>
+    </div>
+</div>
